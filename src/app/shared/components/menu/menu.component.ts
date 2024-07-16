@@ -48,9 +48,9 @@ export class MenuComponent implements OnInit {
         icon: 'pi pi-cog',
         items: [
           {
-            label: 'Otro elemtneto',
+            label: 'Custom pipes',
             icon: 'pi pi-cog',
-
+            routerLink: 'custom'
           }
         ]
       }
